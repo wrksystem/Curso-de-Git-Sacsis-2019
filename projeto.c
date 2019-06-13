@@ -12,7 +12,7 @@ int subtracao(int a, int b){
 	return sub;
 }
 int multiplicacao(int a , int b){
-	int mult = 1*b;
+	int mult = a*b;
 	return mult;
 }
 
