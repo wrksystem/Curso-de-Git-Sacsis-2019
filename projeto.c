@@ -20,7 +20,7 @@ int main(){
 	
 	printf ("Soma dos dois numeros: %d \n", soma(5,5));
 	printf ("Subtracao dos dois numeros: %d\n",subtracao(5,2));
-	printf ("Multiplicao dos dois numeros: %d\m",multiplicacao(5,5));
+	printf ("Multiplicao dos dois numeros: %d\n",multiplicacao(5,5));
 		
 	return 0;
 }
